@@ -1,22 +1,22 @@
 
 <p align="center" width="300">
    <!-- <img align="center" width="200" src="" /> -->
-   <h3 align="center">Hi!! 👋 I'm [Juan Pablo Heis](https://github.com/juanpabloheis) </h3>
+   <h3 align="center">Hi!! 👋 I'm Juan Pablo Heis</h3>
     <p align="center">I'm <strong>Full Stack Developer</strong></p>
     <h4 align="center">Welcome to my profile! 👇</h4>
 </p>
 
 <p align="center">
 
-    <h3>About Me: </h3>
+<h3>About Me: </h3>
 
-    <img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="./img/dev.gif" />
-    <!-- src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif"  -->
-    - 🚀 I’m currently working on **E-commerce Web App**
-    - 🚀 I’m currently learning **Javascript, MongoDB and React/Redux**
-    - ⚡ Fun fact: ... 
-    - 📫 How to reach me: **juanpablo_heis@hotmail.com**
-    - 📝 Checkout my [Resume]().
+<img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://github.com/juanpabloheis/juanpabloheis/blob/main/img/dev.gif" />
+<!-- src="https://raw.githubusercontent.com/MehedilslamRipon/MehedilslamRipon/main/img/MehediIslamRipon.gif"  -->
+- 🚀 I’m currently working on **E-commerce Web App**
+- 🚀 I’m currently learning **Javascript, MongoDB and React/Redux**
+- ⚡ Fun fact: ... 
+- 📫 How to reach me: **juanpablo_heis@hotmail.com**
+- 📝 Checkout my [Resume]().
 
 <h3>Languages and Tools: </h3>
 
