@@ -2,7 +2,7 @@
 <p align="center" width="300">
    <!-- <img align="center" width="200" src="" /> -->
    <h2 align="center">Hi!! 👋 I'm Juan Pablo Heis</h2>
-    <h2 align="center">I'm <strong>Full Stack Developer</strong></h2>
+    <h3 align="center">I'm <strong>Full Stack Developer and Civil Enginner</strong></h3>
     <h3 align="center">Welcome to my profile! 👇</h3>
 </p>
 
@@ -13,12 +13,19 @@
 <h3>About Me: </h3>
 
 <img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://github.com/juanpabloheis/juanpabloheis/blob/main/img/dev.gif" />
-- 🎓 &nbsp; I'm Full-Stack Developer and Civil Engineer. 
+
+- 🎓 &nbsp; I'm Full-Stack Developer and Civil Engineer.
+  
 - 🚀 &nbsp; I’m currently working on **E-commerce Web App**
+  
 - 🚀 &nbsp; I’m currently learning **Javascript, MongoDB and React/Redux**
+  
 - ⚡ &nbsp; In my free time I like to play the guitar and sing. 
+  
 - 💬 &nbsp; Ask me about anything here! I am happy to help.
+  
 - 📫 &nbsp; How to reach me: **juanpablo_heis@hotmail.com**
+  
 <!-- - 📝 Checkout my [Resume](). -->
 
 ---
