@@ -1,10 +1,12 @@
 
 <p align="center" width="300">
    <!-- <img align="center" width="200" src="" /> -->
-   <h3 align="center">Hi!! 👋 I'm Juan Pablo Heis</h3>
-    <p align="center">I'm <strong>Full Stack Developer</strong></p>
-    <h4 align="center">Welcome to my profile! 👇</h4>
+   <h2 align="center">Hi!! 👋 I'm Juan Pablo Heis</h2>
+    <h2 align="center">I'm <strong>Full Stack Developer</strong></h2>
+    <h3 align="center">Welcome to my profile! 👇</h3>
 </p>
+
+---
 
 <p align="center">
 
@@ -12,11 +14,13 @@
 
 <img align="right" height="250" width="400" alt="Mehedi Islam Ripon" src="https://github.com/juanpabloheis/juanpabloheis/blob/main/img/dev.gif" />
 
-🚀 &nbsp; I’m currently working on **E-commerce Web App**
-🚀 &nbsp; I’m currently learning **Javascript, MongoDB and React/Redux**
-⚡ &nbsp; Fun fact: ... 
-📫 &nbsp; How to reach me: **juanpablo_heis@hotmail.com**
+- 🚀 &nbsp; I’m currently working on **E-commerce Web App**
+- 🚀 &nbsp; I’m currently learning **Javascript, MongoDB and React/Redux**
+<!-- - ⚡ &nbsp; Fun fact: ...  -->
+- 📫 &nbsp; How to reach me: **juanpablo_heis@hotmail.com**
 <!-- - 📝 Checkout my [Resume](). -->
+
+---
 
 <h3>Languages and Tools: </h3>
 
@@ -111,8 +115,9 @@
   </tr>
 </table>
 
+---
 
-<div align="center">
+<p align="center">
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"></h3> 
 <p align="center">
     <a href="https://www.linkedin.com/in/juanpabloheis/" target="_blank"><img alt="LinkedIn" width="25px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg"></a>
